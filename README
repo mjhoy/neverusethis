@@ -1,0 +1,12 @@
+never use this
+--------------
+
+to build:
+  $ make
+
+dependencies:
+  libgcrypt -- http://www.gnu.org/software/libgcrypt/
+
+to run:
+  $ ./nut
+    > using libgcrypt: 1.6.1
